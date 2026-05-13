@@ -44,3 +44,9 @@ This application is intentionally designed to include a variety of features to s
           Test Reporting (Allure / HTML)
                 ↓
         CI/CD Pipeline (GitHub Actions / Azure DevOps)
+
+# Installations Required
+- Python v3.11.9
+- Pytest
+- flaui-uiautomation-wrapper
+- venv with Python v3.11.9 Intepreter
