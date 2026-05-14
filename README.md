@@ -50,3 +50,4 @@ This application is intentionally designed to include a variety of features to s
 - Pytest
 - flaui-uiautomation-wrapper
 - venv with Python v3.11.9 Intepreter
+- Pyinstaller to build executable file
